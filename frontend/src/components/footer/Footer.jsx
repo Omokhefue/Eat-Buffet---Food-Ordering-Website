@@ -1,5 +1,4 @@
 import React from "react";
-import { assets } from "../../assets/assets";
 import "./footer.scss";
 import CircleDesign from "../CircleDesign/CircleDesign";
 import Logo from "../logo/Logo";
